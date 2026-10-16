@@ -596,8 +596,8 @@ html[data-theme="dark"] .skill-tag {
 
 @media (max-width: 768px) {
     .skills-grid {
-        grid-template-columns: 1fr;
-        gap: 20px;
+        grid-template-columns: 1fr !important;
+        gap: 20px !important;
     }
 }
 
