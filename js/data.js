@@ -84,7 +84,7 @@ const PORTFOLIO_DATA = {
     ],
     skills: [
         {
-            category: "Technical & Dev",
+            category: "Technical & Development",
             items: ["Mendix Low-Code", "Python Programming", "HTML5 & CSS3", "C++ Programming"]
         },
         {
